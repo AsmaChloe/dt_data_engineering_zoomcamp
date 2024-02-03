@@ -1,2 +1,2 @@
 # dt_data_engineering_zoomcamp
-Homework by Data Engineering Zoomcamp by DataTalksClub
+Homework for the [Data Engineering Zoomcamp by DataTalksClub](https://link-url-here.org](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
