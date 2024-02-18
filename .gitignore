@@ -38,3 +38,5 @@ terraform.rc
 ./Lecture/*
 .env
 Lecture/
+*.duckdb
+*.wal
